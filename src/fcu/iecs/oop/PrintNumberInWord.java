@@ -59,6 +59,7 @@ public class PrintNumberInWord {
 			System.out.println("The input integer is OTHER.");
 			
 		}
+		keyboard.close();
 	}
 
 }

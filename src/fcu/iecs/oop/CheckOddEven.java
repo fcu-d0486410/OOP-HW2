@@ -17,6 +17,7 @@ public class CheckOddEven {
 		else{
 			System.out.printf("%d is  Even Number",integer);
 		}
+		keyboard.close();
 	}
 
 }
